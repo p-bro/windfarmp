@@ -1,5 +1,5 @@
 # windfarmp
-Optimisation code for wind farm layouts
+Code that optimises the layout and number of wind turbines in offshore wind farms.
 
 As the world’s power mix increasingly shifts towards renewable energy sources, the mathematically
 complex multivariate nonlinear problem of wind farm layout optimisation is of important focus to

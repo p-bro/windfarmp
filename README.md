@@ -26,6 +26,6 @@ manner that sufficiently mitigates the increased wind shadowing effect that an i
 It can therefore be concluded that including cable capacity as an optimisable parameter would be a worthwhile addition.
 
 A list of dependencies and further instructions for use will be added soon. In the meantime, feel free to contact me at:
-hickman.aaron07@gmail.com for any further enquires.
+hickman.aaron07@gmail.com for any further enquires. Main code base is within the file Base_Costs_Code.ipynb.
 
 This project was my first attempt at using Python, so any feedback sent to the email above would also be appreciated :)
